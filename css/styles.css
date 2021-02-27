@@ -94,7 +94,7 @@ body {
   line-height: 1.87;
   letter-spacing: 0.06em;
   background: var(--accent-color);
-  /* color: var(--white-color); */
+  color: var(--white-color);
   cursor: pointer;
 }
 
@@ -105,7 +105,8 @@ body {
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.06em;
-  /* color: var(--white-color); */
+  color: var(--white-color);
+  cursor: pointer;
 }
 /* ========== END HERO ========== */
 
